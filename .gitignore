@@ -1,0 +1,17 @@
+
+# Ignore media files
+*.wav
+*.mp3
+*.mp4
+*.webm
+
+# Ignore user-specific files
+/.env
+
+# Ignore any other project-specific files or directories
+/env/
+/__pycache__/
+/.mypy_cache/
+/.pytest_cache/
+/media/
+/private/

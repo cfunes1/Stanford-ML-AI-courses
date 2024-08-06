@@ -1,3 +1,5 @@
 numpy
 matplotlib
 ipywidgets
+scipy
+scikit-learn

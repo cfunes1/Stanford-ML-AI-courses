@@ -10,8 +10,13 @@
 
 # Ignore any other project-specific files or directories
 /env/
-/__pycache__/
+/labs/
+__pycache__/
+.ipynb_checkpoints/
 /.mypy_cache/
 /.pytest_cache/
-/media/
-/private/
+media/
+private/
+images/
+data/
+archive/

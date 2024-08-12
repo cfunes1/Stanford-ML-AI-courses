@@ -3,3 +3,7 @@ matplotlib
 ipywidgets
 scipy
 scikit-learn
+ipympl
+requests
+h5py
+tensorflow

@@ -10,7 +10,7 @@
 
 # Ignore any other project-specific files or directories
 /env/
-/labs/
+/projects/
 __pycache__/
 .ipynb_checkpoints/
 /.mypy_cache/

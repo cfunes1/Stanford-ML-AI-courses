@@ -7,3 +7,4 @@ ipympl
 requests
 h5py
 tensorflow
+sympy

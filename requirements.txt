@@ -10,3 +10,6 @@ tensorflow
 sympy
 pandas
 networkx
+gym
+imageio
+pyvirtualdisplay

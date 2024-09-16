@@ -13,3 +13,5 @@ networkx
 gym
 imageio
 pyvirtualdisplay
+tabulate
+pickle5

@@ -15,3 +15,5 @@ imageio
 pyvirtualdisplay
 tabulate
 pickle5
+plotly
+bokeh
